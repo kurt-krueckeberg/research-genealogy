@@ -1,0 +1,89 @@
+== City Driectories
+
+This lecture explains the value of and how to use City Directories: https://www.youtube.com/watch?v=NJLXnl-qTzk&list=PL8AE558B5D8661B31&index=166[City Directories lecture] by Melissa Tenant
+
+=== Obituaries
+
+include::./peppler-bender/obits-benders-others.adoc[]
+
+=== Family Histories, Biographies
+
+* Books in GenealogyCenter by *Kikuchi, Dolores*:
+
+Sankt Johannis Lutherische Kirche, schule, und friedhof : a comprehensive history, Marion Township, Allen County, Indiana, 1841-1907
+Kikuchi, Delores L.
+
+Partial plot map, Sankt Johannes Evangelishe Kirche Friedhof : Saint John's Lutheran Church cemetery, Wayne Trace, Fort Wayne, Indiana
+Kikuchi, Delores L.
+
+The Ahlschwede family, 1570-2009 : from Hajen to Indiana and Wisconsin, 1846-1866
+Kikuchi, Delores L.
+
+* Bade/Baade Family History
+
+*The immigrant sons of Gottfried Daniel Bade and their descendants in the United States of America*. Author: Baade, Lyle Edwin
+
+* Behrmans
+
+https://acpl.lib.in.us/wise-apps/catalog/6000/detail/wise/60281?offset=0&qs=1685077942&search_in=code&state=code[Rimmonim bells, ten generations of the Behrman, Drucker, Hahn, Stockler, and Sztynberg families plus ten related lines] 
+
+* Bevelheimer
+
+https://acpl.lib.in.us/wise-apps/catalog/6000/detail/wise/91078?offset=0&qs=Bevelheimer&search_in=onderwerp&state=search[From whence we came : the descendants of Conrad Bevelheimer, 1764-1984]
+
+* Bender Fmaily History 
+
+https://acpl.lib.in.us/wise-apps/catalog/6000/detail/wise/196432?offset=4&qs=Bender&search_in=iets&sortkey=titel&state=search&wf_onderwerp=Bender%20family&wf_vestlabel=Genealogy[The Bender Family Story] 
+
+* Springer
+
+https://acpl.lib.in.us/wise-apps/catalog/6000/detail/wise/463553?offset=3&qs=Thiele&search_in=onderwerp&state=search[The Springer Family Tree], by Gordon springer
+
+* Schaefer
+
+https://acpl.lib.in.us/wise-apps/catalog/6000/detail/wise/1126959?offset=1&qs=1684998115&search_in=code&state=code[Schäfer], by Moellering, Carol Lee Wortman
+
+* Thiele
+
+https://acpl.lib.in.us/wise-apps/catalog/6000/detail/wise/1788170?offset=0&qs=2015058543&search_in=code&state=code[Ahnen von Hermann August Theile]
+
+* *History of the Maumee River Basin*. https://www.familysearch.org/library/books/records/?navigation=&perpage=&page=1&sort=_score&search=Maumee+River+Basin&fulltext=1&bookmarks=0#title[Digital verison online]
+  at FamilySearch This volume has biographies of:
+  
+  - Baade, Johann Christian Friedrich
+  - Hoffman, William, p. 188
+  - Beerman, Henry
+  - Niezer, Charles M, p. 34 
+  - Thieme, Theodore F, p. 161
+  - Wiebke, Henry, p. 496 
+
+* The *Pictorical History of Ft Wayne* has a 2nd volume with biogrphies? or a volume of township histories?
+
+== Family Kinship Relationships
+
+The Baades, Hartmans, Thieles, Pipenbrink, Franke (and maybe Nieman? and which others?) arrived on the same ship, on 1 August 1845. Several of these families were all from Windheim.
+The Pepplers arrived with Dudenhoefers and Doenges (I am less sure of the Doenges), but I am not sure if these Dudenhoefes settled in Allen Co IN, or of the precies relationship with 
+Dudenhoefers in Allen County that I already have in my tree.
+
+There was intermarriage between Baades, Pepplers, Weber, Dudenhoefer, etc:
+
+*todo:*
+
+* compile a table of the mrraiges (with names, dates, sources)
+* compile a list of jpoint same-ship arrivals
+* create a table correlating places of residence and who lived nearby, either siblings, parents, or future spouses.
+
+Using a rootsMagic DB query to get these relationsip
+
+.Intermarriage Table
+|===
+|https://www.ancestry.com/family-tree/person/tree/68081704/person/122216343361/facts[Wilhelm "William" Baade (1830-1904)]|https://www.ancestry.com/family-tree/person/tree/68081704/person/122216137806/facts[Christine Louise Bleeke (1827-1916)]
+|Baade|?? 
+|https://www.ancestry.com/family-tree/person/tree/68081704/person/38213189252/facts[Anna Margarethe Bender (1835-1915)]|https://www.ancestry.com/family-tree/person/tree/68081704/person/122394384615/facts[Heinrich "Henry" Thiele (1830-1895)]
+|Ludwig "Louis" Peppler|https://www.ancestry.com/family-tree/person/tree/68081704/person/38178541846/facts[Maria "Mary" Annie Bender(1846-1931)]
+|Philip Schwalm|??/ Bender
+|Fridericke Dorothee Heckeler (1826-1918)|https://www.ancestry.com/family-tree/person/tree/68081704/person/122402001130/facts[Johan Jokab Lahrman/Lehrman (1817-1893)]
+|===
+
+According to this https://www.ancestry.com/family-tree/person/tree/27940543/person/26432103938/facts?_phsrc=KtD2146&_phstart=successSource[tree], the original Baade had children by a total of 
+three different  wives.
