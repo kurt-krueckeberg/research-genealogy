@@ -1,0 +1,5 @@
+*.htmml
+build/
+.*.swp
+public/*
+node_modules/

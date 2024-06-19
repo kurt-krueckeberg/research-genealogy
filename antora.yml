@@ -1,0 +1,10 @@
+name: genealogy-research
+title:  Genealogy Research
+version: 'latest' 
+# start_page: genealogy::index.adoc
+asciidoc:
+  attributes:
+    source-language: asciidoc@
+    table-caption: false
+nav:
+  - modules/ROOT/nav-top.adoc
