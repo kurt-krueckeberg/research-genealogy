@@ -1,0 +1,239 @@
+:toc:
+:stylesheet: dark.css
+:stylesdir: /home/kurt/skins 
+:docinfo: shared
+:docinfodir: /home/kurt/docinfo
+:nofooter:
+
+== Bender Research
+
+=== Background Essential Facts
+
+* Johannes Bender's brother Friedrich "Fred" Bender (1804-18??) also came to live in Adams township likely nearby. 
+
+* Friedrich's son Fred Jr would around 1878? move to Seward CO NE. His widows mother accompanied his family.
+  - Ahlscwedes from Allen county also moved to Seward county, Nebraka. We know because Ahlschwedes would later be witnesses to his last Will and Testament.
+
+* According to this Ancestry https://www.ancestry.com/mediaui-viewer/collection/1030/tree/68081704/person/122412472046/media/45e3f206-a630-4c31-97b3-5303f44842ca?_phsrc=KtD2028&usePUBJs=true&galleryindex=1&sort=-created[member story],
+  the Thieles came to the US on the ship *Copernicus*, the same name of the ship that brought the Peperlers (and others); however, the story has him coming much earlier, on 1 Aug 1845. This date matches general his
+  obituary, which states he came at the age of nine. 
+  
+The story states:
+
+____
+This story was taken from The Springer Family Tree Branch 4, Volume 6, page 3, written by Gordon Springer 1993.
+
+Friderich and his two brothers and parents came from the Port of Bremen to the Port of New York on 1 Aug 1845 on the sailing ship Copenricus.  They moved to Adams County, Indiana, then in 1853, his father bought some land on the Thiele Rd. which is named after his father.  His fathers name is Friederich Thiele.  Friederich and his three sons had Intent for Naturalization on 6 Sep 1845, and final Naturalization on 1 Mar 1853, in Decatur, Indiana. Note Friederich's son William died on 18 Sep 1847.  He only had Intent for Naturalization.
+
+Friderich's parents were charter members of St. Joh Lutheran Church, Adams County, Indiana (Bingen).  They signed the original constitution on 26 Dec 1845.  They also helped with the Conception of St. Mark's Lutheran Church, Allen County, Indiana in 1854.  Friderich's father also donated the land for St. Mark's Lutheran's first church. (Log Cabin)
+____
+
+==== Information from Obituries
+
+The obituary for Louis Bender (1842-1922), son of Johannes Bender (1808-1886), says he (was born in? Marion twonship and) came to Admas township at age 12, or around 1852, where he lived for the 
+next 70 years. He died his life and died "on the old homestead", which was on "Hartzell Rd", in Adams township. From te ???? censuses, his parents live next door to him.
+Louis Bender Obituary
+
+___
+*ADAMS PIONEER SUCCUMBS* +
+Louis Bender Dies At Age of Eighty-Two Years +
+Louis Bender, aged 82, a pioneer resident of Adams township, died at the old Adams homestead, about four and one-half miles south
+of New Haven on the Hartzell road at 7 o’clock Friday evening. +
+
+Mr Bender came to Adams township when a boy 12 years of age and had lived on the same farm for the last 70 years.
+The wife died two years ago and a son and daughter also preceded him in death several years ago.
+Surviving are three daughters, Mrs Mary Fruechnicht (Fruechtenicht) of Toledo; Mrs Minnie Kaylor of Fort Wayne; and Mrs Anna Pierce,
+at home, and four sons, Philip at home, and George, Louis and William of Fort Wayne.
+Funeral services will be held from the home at 2 o’clock Monday afternoon and at 2:30 o’clock form the Soest Lutheran church.
+Burial in the Soest cemetery.
+___
+
+==== Obituaries Found and Yet of Find
+List of obituaries to read:
+
+include::./obits-benders-others.adoc[]
+
+==== FamlySearch Narrative
+
+An uncited FamilySearch narrative that Friedrich Bender first settled in the Albany NY area, where he worked as a teamsters on the Erie Canal. I believe this narrative also
+states that his brother joined hime, because they then both moved to Allen county.
+
+This is why a timeline will be helpful: you can see sources and get an overview of their lives.
+
+=== Records to Find and Investigate 
+
+* Read and investigate this Bender family history in the Genealoy Center written by a late Allen County resident. It was published around 1972:
+
+https://acpl.lib.in.us/wise-apps/catalog/6000/detail/wise/196432?offset=4&qs=Bender&search_in=iets&sortkey=titel&state=search&wf_onderwerp=Bender%20family&wf_vestlabel=Genealogy[The Bender Family Story] +
+Call number: *929.2 B43171fi*. Published: 1971 +
+Its contents: Great grandfather -- America -- Eighteen thirty seven -- They came to Indiana -- Eigheteen forty -- Hessen Castle -- Eighteen fifty cenus -- Called home -- Phillip -- John Jacob dies -- Final words.
+
+* Find any remaining obituaries for the chiuldren of Johannes Bender
+  - Esespecially those children born in Fellinhausen, like that of Anna Margarethe Bender Thiele, who died in Cook county, Ill.
+
+* Others from Hesse or Rodheim an der Bieber, etc who are in the https://www.genealogycenter.info/results_naturalizations.php[Allen County Naturlaization Database] 
+  - *Use Soundex* searches!
+  - Like Theiel, Dudenhoefer, Ahlschwede, Doenges, etc
+* Create a timeline for the Bender brothers and their families. Include a source citation. Excerpt:
+
+Othe 
+
+==== German Nespaper in Seward NE
+
+There was a weekly (not daily) German-language newspaper in Seward NE, the *Deutsches Journal*, written in German (Fraktur, with some articles in English). Frderick Bender (1837-1918) died 28 May 1918, so the 
+30 May 1918 edition will likely have his obituary. The *newspapers.com* has this edition online. The first page is https://www.newspapers.com/image/legacy/751503939/[here], but it requires a subscription. Howvever,
+*Chronicling America* may have it. Other sites might, too. Refer to the Melissa Tennant lecture on link:/home/kurt/d/g/lectures/newspaper-sites-for-family-historians.pdf/[Newpaper Sites for Family Historians].
+
+The only German Language newspapers on Chronicling America for Indiana, Nebraska and New York are:
+
+- In Indiana: The *Indianapolis Tribüne*
+- New York there are no German newspapers on Chronicling America 
+- link:https://chroniclingamerica.loc.gov/lccn/2017270200/[Nebraska Staats-Anzeiger. [volume] (Lincoln, Nebraska) 1880-1901]
+
+Description:
+
+The Nebraska Staats-Anzeiger, Grand Island Anzeiger und Herold, Grand Island Anzeiger, and Nebraska Staats-Anzeiger und Herold.
+
+The Nebraska Staats-Anzeiger, or "Nebraska State Advertiser," was a German-language newspaper founded in Lincoln in 1880. While its
+earliest issues were Republican in sentiment, it later prided itself on taking an independent viewpoint. As with many of the state's
+German-language newspapers, the editors of the Staats-Anzeiger urged German nationals to settle in Nebraska, where land was abundant
+and inexpensive. In the 19th and early 20th centuries, more Germans came to Nebraska than any other national group.
+
+The publishers of the Nebraska Staats-Anzeiger, August Esser and Henry Schaal, were originally from Germany and had previous newspaper
+experience in Nebraska and Illinois, respectively. Esser had been an associate editor and a traveling agent, while Schaal had been a
+"compositor" or typesetter. One contemporary source described the Nebraska Staats-Anzeiger as "a neat, well-conducted paper, devoted to the
+interests of the locality and [which] gives all the important domestic and foreign intelligence." At its height, the 18" x 24" newspaper
+had a circulation of 2,765 subscribers paying $2 per week.
+
+The Grand Island Anzeiger, a similar German language paper, ran from 1889-1893, and was succeeded by the Grand Island Anzeiger und Herold.
+
+In 1901, the Nebraska Staats-Anzeiger merged with the Grand Island Anzeiger und Herold, or "Grand Island Advertiser and Herald," to form the
+Nebraska Staats-Anzeiger und Herold. Published in Grand Island, Nebraska, by the Anzeiger-Herald [sic] Publishing Company, the paper continued
+to be Independent in perspective. Weekly issues of the Staats-Anzeiger und Herold could be purchased for $1.75. During this time, the newspaper
+published a literary supplement under the name of Sonntagsblatt, or "Sunday Leaf."
+
+In 1919, Nebraska passed a law forbidding, under penalty, the teaching in any private, denominational, parochial, or public school, of any modern
+language, other than English, to any child who had not attained and successfully passed the eighth grade. The target for this legislation was in
+large part the German language, due to widespread anti-German sentiment during World War I. In 1923, in Meyer vs. the State of Nebraska, the U.S.
+Supreme Court struck down the state law, saying it violated due process clause of the 14th Amendment. By this time, however, the chilling effect
+of Nebraska's restriction on the teaching of foreign languages extended to the press, with the number of German-language newspapers in the state
+plummeting. Some, such as the Nebraska Staats-Anzeiger und Herold, simply dropped German in favor of English. By June 1918, the paper had stopped
+publishing in German altogether. Subsequent titles, such as the Grand Island Herald, issued by A-H Publishing Company, were published exclusively
+
+*My comment:* This explains the German-and-English front-page editorial in the last issue of the Deutsches Journal.
+in English.
+
+=== List of Other Rodheim/Fellinhausen Emigrants in Marion Twp, Allen CO. Indiana
+
+In 1857, when the Pepplers emigrated, they were accompanied on the ship Copernicus by other families from Rodheim. Those listed by link:./die-auswanderer-aus-kirchspiel-rodheim.pdf[Ernst Schmidt] as
+emigrating in April 1857 included:
+
+* Dönges
+* J. Kirch
+* Dudenhöfer
+
+Philip Schwalm, who married Christine Bender (1842 - 19150), daughter of Friedrich Bender (1804-??), was also listed on the passenger list of the Copernicus
+(or at least someone his age and with his name).
+
+Those from Rodheim who emigrated in April 1857 were:
+
+Dudenhöfer , Luise Magdalene, geb. 16. 11. 1799, ausgewandert April 1857
+Dudenhöfer , Katharine Elisabeth, geb. 30. 7. 1815, ausgewandert 1846
+Dudenhöfer , Georg Philipp, geb. 14. 6. 1817, ausgewandert 1840 <-- Was he on the ship with Johannes Bender???
+Dudenhöfer , Konrad, geb. 16. 5. 1858, ausgewandert 1882
+
+Dönges ?????
+
+Dudenhöfer , Johann Georg, geb. 26. 9. 1835
+Weber, Anna Margaretha, geb. 22. 10. 1837, verh. 10. 8.  1862, ausgewandert im November 1863
+
+Dudenhöfer , Johann Georg, geb. 9. 3. 1834, ausgewandert April 1857
+Dudenhöfer , Andreas, geb. 4. 9. 1838, ausgewandert April 1857
+
+*Note:* Include also the Dönges from Rodhiem that may also have emigrated in April 1857 and been on the Copernicus.
+
+
+The 1867 Allen County Indiana, https://www.ancestry.com/discoveryui-content/view/1440232475:2469?tid=68081704&pid=38213189245&hid=1007410371314&_phsrc=KtD1474&_phstart=default[City Directory] lists individuals from
+Rodheim an der Bieber und Fellinghausen:
+
+Benders, three Fredericks
+Bender, George
+Bender, John
+Bender, Louis
+Peppler, Jacob
+Peppler, Louis
+Dudenhafers, two or three
+Dinges
+Ahlschwede, Frederick
+
+=== TODO Next
+
+Add the newpaper article images (and transcribe them) for *Christine nee Bender Schwalm* since it mentions family members. There might be details about her parents. This is unlikely, as her obit would her obituary
+wd be the most likely src of this info. But theese articles do provide details that might proven fruitful in the future.
+
+Read also the Bender Family Hitory mentioned below.
+
+Christine Bender (1842 - 1915), daughter of ?? Bender, married Philip Schwalm. A Philip Schwalm arrived on the same boat, the Copernicus, as the Johann Jokob Peppler family, according to its
+https://bit.ly/3Q0Fa0C[passenger list]. 
+
+- When did the Johannes (1808-18?) come to Adams twp, Allen County?
+
+The obituary of his son Louis Bender (1840-1922) says that he came to Adams township when he was 12, and he lived there the rest of his life and died there. The obituary explains the "old 
+homestead" was on Hartzell Rd.  The Fort Wayne City Directories refer to old "New Haven Rd". I think this is present-day Hartzell Road.
+ 
+=== Bender-Felt Relationships
+
+A 24 Aug 1922 Journal Gazette link:felt-bender-reunion-24-Aug-1922-JG.pdf[article] describes the Bender-Felt reunion. It mentions many individuals in attendence, and thus relationships between many
+families can be inferred. There is also a high-resolution link:felt-bender-reunion-24-aug-1922-JG.jpg[image].
+
+=== PDFs fo Newspaper Articles
+
+There are several PDFs in this folder of Bender (and others)-related articles to investigate.
+
+=== Other Records to Explore Include
+
+Was this individual on the ship with thethe Johannes Bender family in 1840?
+
+Dudenhöfer , Georg Philipp, geb. 14. 6. 1817, ausgewandert 1840 
+
+Find it again.
+
+
+==== Deeds, Plats, Tracks
+
+Finding all deeds for Johannes and Joahnn Freidrich Bender, who both own land they farmed according to the 1850 Census, in Marion Twp, Allen County.
+
+Deeds of sale of this land before they moved to Adams township and purchased other land--unless the township borders changed.
+Therefore, I should seek to find this land also from *Platts* -- orignal surveys and any later -- that would show the land they owned; or from *Tract books*.
+
+Later probate records that describe anything of relevant to this land
+
+==== Tax Lists
+
+Are there any that might be available.
+
+==== Probated Wills
+
+Ancestry has probated will of Frederick Bender (1837 to 1918), the son of Johann Friedrich Bender's (1804 to 187?). Its link:./Frederick_Bender_1837-to-1918_Probated_will.png[image] is legible and mentions: 
+
+* Frederick's wife and
+* two of his sons that reside in Seward Co, Nebraska, and
+* it was winessed by two individuals whose surname is *Ahlschwede* and one whose surname is *Frank*.
+
+*Comment:* The first Ahlschwedes in Seward Co. NE came from Allen Co. IN, https://www.findagrave.com/memorial/63679060/wilhelm-ahlschwede[Wilhelm “William” Ahlschwede]. The late Dolores Kulkuchi's
+https://www.ancestry.com/family-tree/tree/27940543/family?cfpid=5097750032[Koch-Starke-Alschwede-etc Tree] includes Ahlschwedes that settled in Allen and Adams Counties and in Huntington Indiana.
+
+==== Church Records
+
+The Sankt Johannis Gemeinde church book will be helpful because https://www.ancestry.com/family-tree/person/tree/68081704/person/38213189248/facts[Eleonore Bender (1833 to 1861)],
+the daughter of Johanes Bender and Katharine Elisabeth Rühl(1809-1897), was recorded as buried in the Sankt Johanis Gemeinde Friedhof by the Mary Pensoe DAR chapter (I believe). This
+suggests her parents were also members.
+
+And the Soest records will also be helpful.
+
+==== NE Death Index
+
+This https://www.ancestry.com/discoveryui-content/view/415557:62095?tid=68081704&pid=122395610254&hid=1007362676017[image] from the "Nebraska, U.S., Index to Deaths, 1904-1968", shows several Benders who died, including
+Frederick Bender (1837-1918).
+
+==== Allen County Obituries

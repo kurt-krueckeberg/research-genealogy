@@ -1,0 +1,90 @@
+:toc:
+:stylesheet: dark.css
+:stylesdir: /home/kurt/skins 
+:docinfo: shared
+:docinfodir: /home/kurt/docinfo
+:nofooter:
+
+== Heckeler Haeckler Fmaily
+
+Add this Fact to Johann Thomas Heckeler (1820-188?):
+
+*Thomas Heckeler* is found when search the Genealogy Center's online database for https://www.genealogycenter.info/search_naturalizations.php[Allen County, Indiana Applications for Naturalization, 1844-1906]
+for *Heckeler*. The details are:
+
+[width="30%",frame="none",grid="rows"]
+|===
+|Surname, Given|Heckeler, Thomas
+|Date of declaration|25 Apr. 1854
+|Native of|Württemberg
+|Age|33 yrs.
+|Place of embarkation|Havre
+|Arrival|New York, 2 May 1840
+|Book number|2, p. 60
+|===
+
+=== Naturalization Records for Heckler
+
+The _Allen County, Indiana Applications for Naturalization, 1844-1906 database_ is a free online database
+(https://www.genealogycenter.info/search_naturalizations.php) of the Genealogy Center, Allen County Public
+Library, Fort Wayne, Indiana.
+
+A soundex search for the surname “Heckeler” returned these resuls.
+
+."Heckeler" Soundex Search Results
+[cols=",,,,,,,",rame="non".rows="grid",options="header",]
+|===
+|*Name* |*Date of Declaration* |*Native of* |*Age* |*Place of Embarkation* |*Port of Arrival* |*Arrival Date* |*Book, page*
+|HECKELER, THOMAS |25 Apr. 1854 |Wurtemberg |33 yrs. |Havre |N.Y. |2 May 1840 |2, p. 60
+
+|HECKLER, FRED |7 Nov. 1892 |Germany |46 yrs. |Bremen |N.Y. |16 July 1890 |9, p. 14
+
+|HEEKELER, CHRISTIAN |25 Apr. 1854 |Wurtemburg |30 yrs. |Havre |N.Y. |2 May 1840 |2, p. 59
+|===
+
+=== Passenger List
+
+Ship arrival Passneger Lists can be browsed by date or by roll at this ancestry page https://www.ancestry.com/search/collections/7488/[https://www.ancestry.com/search/collections/7488/]. 
+See the column on the right side.
+
+On 2 May 1840, just one ship from Le Havre arrived in New York City, the *Silvie de Grasse*. The Heckler family is almost cerytainly listed, although transcribed incorrectly, on the first page on . 
+https://www.ancestry.com/imageviewer/collections/7488/images/NYM237_41-0635?ssrc=&backlabel=Return&pId=1022618750[lines 16 through 21]. The family is from *Württ.g*, an obvious abbreviaton for
+Württemberg. 
+
+The Surname is transcribed as Lacketer, but this is incorrect. The first letter of the surname is almost certainly *H*. If you compare it to the first name on the list, Hauser, the "H" is written 
+identically. The name is easily understood as Ha [or 'ae' or 'e'] ckeler:
+
+Here is a link:./heckeler-family-on-silvie-de-grasse.png[screen print].
+
+* Are my "facts" for Heckelers are acurrate? Do they do not reflect the actual facts--village, city, district, etc--in the associated records.
+  I need to determine:
+  - Church or Parish name
+  - Landkreis
+  - Town or village name
+  - If they moved, as indicated in the Württemberg Familietabellen, from where to where did they move? 
+  - Double check the church records for missing items not transcribed.
+
+* See "Nineteenth century emigrants from Baden-Wurttemberg", by Burkett, Brigitte. GenalogCenter call #: `929.13 B92E V.1`. This volume included information on emigrants from Illingen.
+  The Thomas Heckelers are mentioned on page 142. Much historical information is included in the volume.
+
+* I found a translation of the "Familienschein" for the Heckeler family and saved it to my gallery for https://bit.ly/3epGBIH[Thomas Heckeler Sr.] 
+
+* The youngest Heckeler child, Friederike Dorothee Heckeler married a Lahrman. She lived to be around 91. See this tree showing her https://www.ancestry.com/family-tree/person/tree/88572640/person/30570759641/facts[husband].
+
+* Historical background, Gazetteers, Parish lists:
+  - https://www.familysearch.org/en/wiki/Baden-W%C3%BCrttemberg_Gazetteers[Gazetteers Parish lists]
+  - https://de.wikipedia.org/wiki/Verwaltungsgliederung_W%C3%BCrttembergs[Verwaltungsgliederung Württembergs] (Administrative divisions of Württemberg)
+
+* See also  "The Wuerttemburg Emigration Index. Volume 6. Salt Lake City, UT: Ancestry, 1992. 480p.", by SCHENK, TRUDY, and RUTH FROEKLE. 
+  See link:https://www.ancestry.com/discoveryui-content/view/2533906:7486?tid=68081704&pid=122401939145&hid=1007441200779[hit on Ancestry].
+
+* The Heckeler Haeckler Family is extensively documented in the FamilySearch Tree, as far back as the early 18th century. 
+  See, for example, the person-entry for 
+  https://www.familysearch.org/tree/pedigree/landscape/LCX4-2C6[Christian Heckler(17370-1795)], the father of 
+  - Johann Thomas Heckler/Haeckler/Hecheler, who
+  married Maria Barbara Rauch, who was the father of https://www.ancestry.com/family-tree/person/tree/68081704/person/122401939145/facts[Johann Christoph "Christopher" Heckeler],
+  whose https://www.ancestry.com/imageviewer/collections/48324/images/HudsonMohawkII-002839-892?pId=292090[biography] appears in the Mohawk-Hudson Valley volume of biographies. 
+
+This biography says that Johann Thomas Haeckler emigrated in 1840, departing Bremen and arriving in NYC 90 days later, and he obtained a land patent to land in Pleasant township, 
+Allen County IN, but a search on the BLM site shows no "Heck*" in Allen Co, who was awarded a Land Patent.
+
