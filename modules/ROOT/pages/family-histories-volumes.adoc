@@ -4,7 +4,7 @@ This lecture explains the value of and how to use City Directories: link:https:/
 
 === Obituaries
 
-xref:peppler-bender:obits-benders-others.adoc[]
+//xref:peppler-bender:obits-benders-others.adoc[]
 
 === Family Histories, Biographies
 
