@@ -1,13 +1,6 @@
-:toc:
-:stylesheet: dark.css
-:stylesdir: /home/kurt/skins 
-:docinfo: shared
-:docinfodir: /home/kurt/docinfo
-:nofooter:
+= Bender Research TODOES
 
-== Bender Research
-
-=== Background Essential Facts
+== Background Essential Facts
 
 * Johannes Bender's brother Friedrich "Fred" Bender (1804-18??) also came to live in Adams township likely nearby. 
 
@@ -28,7 +21,7 @@ Friderich and his two brothers and parents came from the Port of Bremen to the P
 Friderich's parents were charter members of St. Joh Lutheran Church, Adams County, Indiana (Bingen).  They signed the original constitution on 26 Dec 1845.  They also helped with the Conception of St. Mark's Lutheran Church, Allen County, Indiana in 1854.  Friderich's father also donated the land for St. Mark's Lutheran's first church. (Log Cabin)
 ____
 
-==== Information from Obituries
+=== Information from Obituries
 
 The obituary for Louis Bender (1842-1922), son of Johannes Bender (1808-1886), says he (was born in? Marion twonship and) came to Admas township at age 12, or around 1852, where he lived for the 
 next 70 years. He died his life and died "on the old homestead", which was on "Hartzell Rd", in Adams township. From te ???? censuses, his parents live next door to him.
@@ -48,19 +41,19 @@ Funeral services will be held from the home at 2 o’clock Monday afternoon and 
 Burial in the Soest cemetery.
 ___
 
-==== Obituaries Found and Yet of Find
+== Obituaries Found and Yet of Find
 List of obituaries to read:
 
 include::./obits-benders-others.adoc[]
 
-==== FamlySearch Narrative
+=== FamlySearch Narrative
 
 An uncited FamilySearch narrative that Friedrich Bender first settled in the Albany NY area, where he worked as a teamsters on the Erie Canal. I believe this narrative also
 states that his brother joined hime, because they then both moved to Allen county.
 
 This is why a timeline will be helpful: you can see sources and get an overview of their lives.
 
-=== Records to Find and Investigate 
+== Records to Find and Investigate 
 
 * Read and investigate this Bender family history in the Genealoy Center written by a late Allen County resident. It was published around 1972:
 
@@ -76,9 +69,9 @@ Its contents: Great grandfather -- America -- Eighteen thirty seven -- They came
   - Like Theiel, Dudenhoefer, Ahlschwede, Doenges, etc
 * Create a timeline for the Bender brothers and their families. Include a source citation. Excerpt:
 
-Othe 
+Other
 
-==== German Nespaper in Seward NE
+=== German Nespaper in Seward NE
 
 There was a weekly (not daily) German-language newspaper in Seward NE, the *Deutsches Journal*, written in German (Fraktur, with some articles in English). Frderick Bender (1837-1918) died 28 May 1918, so the 
 30 May 1918 edition will likely have his obituary. The *newspapers.com* has this edition online. The first page is https://www.newspapers.com/image/legacy/751503939/[here], but it requires a subscription. Howvever,
@@ -123,7 +116,7 @@ publishing in German altogether. Subsequent titles, such as the Grand Island Her
 *My comment:* This explains the German-and-English front-page editorial in the last issue of the Deutsches Journal.
 in English.
 
-=== List of Other Rodheim/Fellinhausen Emigrants in Marion Twp, Allen CO. Indiana
+== List of Other Rodheim/Fellinhausen Emigrants in Marion Twp, Allen CO. Indiana
 
 In 1857, when the Pepplers emigrated, they were accompanied on the ship Copernicus by other families from Rodheim. Those listed by link:./die-auswanderer-aus-kirchspiel-rodheim.pdf[Ernst Schmidt] as
 emigrating in April 1857 included:
@@ -166,7 +159,7 @@ Dudenhafers, two or three
 Dinges
 Ahlschwede, Frederick
 
-=== TODO Next
+== TODO Next
 
 Add the newpaper article images (and transcribe them) for *Christine nee Bender Schwalm* since it mentions family members. There might be details about her parents. This is unlikely, as her obit would her obituary
 wd be the most likely src of this info. But theese articles do provide details that might proven fruitful in the future.
@@ -181,16 +174,16 @@ https://bit.ly/3Q0Fa0C[passenger list].
 The obituary of his son Louis Bender (1840-1922) says that he came to Adams township when he was 12, and he lived there the rest of his life and died there. The obituary explains the "old 
 homestead" was on Hartzell Rd.  The Fort Wayne City Directories refer to old "New Haven Rd". I think this is present-day Hartzell Road.
  
-=== Bender-Felt Relationships
+== Bender-Felt Relationships
 
 A 24 Aug 1922 Journal Gazette link:felt-bender-reunion-24-Aug-1922-JG.pdf[article] describes the Bender-Felt reunion. It mentions many individuals in attendence, and thus relationships between many
 families can be inferred. There is also a high-resolution link:felt-bender-reunion-24-aug-1922-JG.jpg[image].
 
-=== PDFs fo Newspaper Articles
+== PDFs fo Newspaper Articles
 
 There are several PDFs in this folder of Bender (and others)-related articles to investigate.
 
-=== Other Records to Explore Include
+== Other Records to Explore Include
 
 Was this individual on the ship with thethe Johannes Bender family in 1840?
 
@@ -199,7 +192,7 @@ Dudenhöfer , Georg Philipp, geb. 14. 6. 1817, ausgewandert 1840
 Find it again.
 
 
-==== Deeds, Plats, Tracks
+=== Deeds, Plats, Tracks
 
 Finding all deeds for Johannes and Joahnn Freidrich Bender, who both own land they farmed according to the 1850 Census, in Marion Twp, Allen County.
 
@@ -208,11 +201,11 @@ Therefore, I should seek to find this land also from *Platts* -- orignal surveys
 
 Later probate records that describe anything of relevant to this land
 
-==== Tax Lists
+=== Tax Lists
 
 Are there any that might be available.
 
-==== Probated Wills
+=== Probated Wills
 
 Ancestry has probated will of Frederick Bender (1837 to 1918), the son of Johann Friedrich Bender's (1804 to 187?). Its link:./Frederick_Bender_1837-to-1918_Probated_will.png[image] is legible and mentions: 
 
@@ -223,7 +216,7 @@ Ancestry has probated will of Frederick Bender (1837 to 1918), the son of Johann
 *Comment:* The first Ahlschwedes in Seward Co. NE came from Allen Co. IN, https://www.findagrave.com/memorial/63679060/wilhelm-ahlschwede[Wilhelm “William” Ahlschwede]. The late Dolores Kulkuchi's
 https://www.ancestry.com/family-tree/tree/27940543/family?cfpid=5097750032[Koch-Starke-Alschwede-etc Tree] includes Ahlschwedes that settled in Allen and Adams Counties and in Huntington Indiana.
 
-==== Church Records
+=== Church Records
 
 The Sankt Johannis Gemeinde church book will be helpful because https://www.ancestry.com/family-tree/person/tree/68081704/person/38213189248/facts[Eleonore Bender (1833 to 1861)],
 the daughter of Johanes Bender and Katharine Elisabeth Rühl(1809-1897), was recorded as buried in the Sankt Johanis Gemeinde Friedhof by the Mary Pensoe DAR chapter (I believe). This
@@ -231,9 +224,10 @@ suggests her parents were also members.
 
 And the Soest records will also be helpful.
 
-==== NE Death Index
+=== NE Death Index
 
 This https://www.ancestry.com/discoveryui-content/view/415557:62095?tid=68081704&pid=122395610254&hid=1007362676017[image] from the "Nebraska, U.S., Index to Deaths, 1904-1968", shows several Benders who died, including
 Frederick Bender (1837-1918).
 
-==== Allen County Obituries
+=== Allen County Obituries
+

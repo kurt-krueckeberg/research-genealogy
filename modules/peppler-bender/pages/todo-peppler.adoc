@@ -1,11 +1,4 @@
-:toc:
-:stylesheet: dark.css
-:stylesdir: /home/kurt/skins 
-:docinfo: shared
-:docinfodir: /home/kurt/docinfo
-:nofooter:
-
-== Peppler Research
+= Peppler Research TODOES
 
 In 1857, when the Pepplers emigrated, they were accompanied on the ship Copernicus by other families from Rodheim. Those listed by link:./die-auswanderer-aus-kirchspiel-rodheim.pdf[Ernst Schmidt] as
 emigrating in April 1857 included:
